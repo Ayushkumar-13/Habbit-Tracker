@@ -1,0 +1,7 @@
+.bg-gif {
+  background-image: url('src/particlesjs-examples.gif');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+}
+
